@@ -1,5 +1,3 @@
-
-
 import { addnewProduct } from "../controllers/controller";
 
 const routes = (app) =>{
